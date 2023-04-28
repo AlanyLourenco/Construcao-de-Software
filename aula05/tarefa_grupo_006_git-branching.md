@@ -37,10 +37,4 @@ O comando "git branch -d teste" é usado para excluir a branch "teste" no reposi
 
 Três ações - criar uma ou mais ramificações, alternar para pelo menos duas ramificações e MERGE - devem ser executadas nessa ordem.
 
-INSTRUÇÕES:
-
-1. No seu repositório pessoal, na sua branch pessoal, criar a pasta aula05.
-2. Commitar este arquivo respondido nesta pasta.
-3. A data limite para concluir esta tarefa é dia 01/05/2023, as 23h59min.
-
 </DIV/>
